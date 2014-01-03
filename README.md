@@ -3,9 +3,7 @@
 ## Description
 Sharp Theme is a free Question2Answer Theme created by [Towhid Nategheian](http://TowhidN.com) from [QA-Themes.com](http://QA-Themes.com)
 
-[Demo](http://demo.qa-themes.com/sharp/)
-[Features](http://qa-themes.com/shop/sharp-theme)
-[Documentation](http://demo.qa-themes.com/sharp/documentation/)
+[Demo](http://demo.qa-themes.com/sharp/) - [Features](http://qa-themes.com/shop/sharp-theme) - [Documentation](http://demo.qa-themes.com/sharp/documentation/)
 
 ## Installation
 
@@ -17,7 +15,7 @@ Sharp Theme is a free Question2Answer Theme created by [Towhid Nategheian](http:
 
 this theme and all it's source code is published under [MIT License]. you are free to use it in any way you like, just don't forget the attribution.
 
-## About Q2A
+#### About Q2A
 
 Question2Answer is a free and open source platform for Q&A sites. For more information, visit:
 
