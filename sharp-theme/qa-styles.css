@@ -1337,9 +1337,10 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffc04c', end
 	color:#999;
 }
 .qa-a-item-main {
-	float:left;
-	width:670px;
-	display:inline-block;
+    display: inline-block;
+    float: left;
+    max-width: 600px;
+    width: auto;
 } /* inline-block for IE */
 .qa-a-item-selected {
 	background-color:#d7e3e1;
