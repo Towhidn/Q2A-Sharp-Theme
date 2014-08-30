@@ -1204,8 +1204,9 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffc04c', end
 /* Question view */
 
 .qa-q-view-main {
-	float:left;
-	width:600px;
+	float: left;
+	max-width: 600px;
+	width: auto;
 }
 .qa-q-view-content {
 	font-size:14px;
